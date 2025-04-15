@@ -22,7 +22,7 @@ const MovieCard: React.FC<MovieProps> = ({ movie, onPlay }) => {
       <img
         src={movie.image}
         alt={movie.title}
-        className="rounded-md w-full object-cover transition-transform duration-300 group-hover:scale-105 group-hover:opacity-20"
+        className="rounded-md w-full h-[150px] object-cover transition-transform duration-300 group-hover:scale-105 group-hover:opacity-20"
       />
       
       <div className="absolute inset-0 opacity-0 group-hover:opacity-100 transition-opacity bg-black/80 rounded-md">
@@ -46,23 +46,18 @@ const MovieCard: React.FC<MovieProps> = ({ movie, onPlay }) => {
               </button>
             </div>
 
-            <h3 className="font-bold mb-1">{movie.title}</h3>
+            <h3 className="font-bold mb-1 text-sm">{movie.title}</h3>
             
-            <div className="flex items-center space-x-2 text-sm mb-2">
+            <div className="flex items-center space-x-2 text-xs mb-2">
               <span className="text-green-500 font-bold">{movie.match}% Match</span>
-              <span className="border border-gray-400 px-1 text-xs">{movie.rating}</span>
+              <span className="border border-gray-400 px-1">{movie.rating}</span>
               <span>{movie.duration}</span>
-              <span className="border border-gray-400 px-1 text-xs">HD</span>
+              <span className="border border-gray-400 px-1">HD</span>
             </div>
 
-            <ul className="flex flex-wrap gap-2 text-sm">
-              {movie.genres.map((genre, index) => (
-                <li key={index}>
-                  {index > 0 && <span className="mr-2">•</span>}
-                  {genre}
-                </li>
-              ))}
-            </ul>
+            <div className="text-xs">
+              <span className="text-gray-400">{movie.genres.join(' • ')}</span>
+            </div>
           </div>
         </div>
       </div>

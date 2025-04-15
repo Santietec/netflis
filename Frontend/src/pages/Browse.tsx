@@ -81,7 +81,6 @@ const Browse = () => {
   const [key, setKey] = useState(0);
 
   useEffect(() => {
-    // Cada vez que cambie el perfil, actualizamos la key para forzar el re-render
     setKey(prev => prev + 1);
   }, [currentProfile]);
 
@@ -95,7 +94,7 @@ const Browse = () => {
       year: 2014,
       genres: ["Acción", "Thriller"],
       match: 95,
-      videoUrl: "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/1080/Big_Buck_Bunny_1080_10s_1MB.mp4"
+      videoUrl: "./Frontend/public/SPIDER-MAN Vuelve a la gran pantalla. ¡TODOS ELLOS a partir del 2 DE AGOSTO!.mp4"
     },
     {
       id: 2,

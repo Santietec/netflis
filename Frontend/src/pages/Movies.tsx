@@ -82,15 +82,15 @@ const Movies = () => {
   const actionMovies: Movie[] = [
     {
       id: 1,
-      title: "John Wick",
-      image: "/movies/john-wick.jpg",
-      duration: "1h 41m",
-      rating: "16+",
-      year: 2014,
-      genres: ["Acción", "Thriller"],
+      title: "Spider-Man",
+      image: "/movies/spider-man.jpg",
+      duration: "2h 30m",
+      rating: "13+",
+      year: 2023,
+      genres: ["Acción", "Aventura", "Ciencia ficción"],
       match: 95,
-      description: "Un exasesino a sueldo busca vengar la muerte de su perro, un regalo de su esposa fallecida.",
-      videoUrl: "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/1080/Big_Buck_Bunny_1080_10s_1MB.mp4"
+      description: "¡Spider-Man vuelve a la gran pantalla! Prepárate para una nueva aventura épica con tu amigable vecino.",
+      videoUrl: "SPIDER-MAN Vuelve a la gran pantalla. ¡TODOS ELLOS a partir del 2 DE AGOSTO!.mp4"
     },
     {
       id: 2,
@@ -102,7 +102,7 @@ const Movies = () => {
       genres: ["Acción", "Aventura"],
       match: 97,
       description: "En un mundo posapocalíptico, un fugitivo y una guerrera rebelde luchan contra un tirano por la libertad.",
-      videoUrl: "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/1080/Big_Buck_Bunny_1080_10s_1MB.mp4"
+      videoUrl: "SPIDER-MAN Vuelve a la gran pantalla. ¡TODOS ELLOS a partir del 2 DE AGOSTO!.mp4"
     },
     {
       id: 3,
@@ -114,7 +114,7 @@ const Movies = () => {
       genres: ["Acción", "Drama", "Historia"],
       match: 96,
       description: "Un general romano traicionado busca vengar la muerte de su familia como gladiador.",
-      videoUrl: "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/1080/Big_Buck_Bunny_1080_10s_1MB.mp4"
+      videoUrl: "SPIDER-MAN Vuelve a la gran pantalla. ¡TODOS ELLOS a partir del 2 DE AGOSTO!.mp4"
     },
     {
       id: 4,
@@ -126,7 +126,7 @@ const Movies = () => {
       genres: ["Acción", "Drama", "Crimen"],
       match: 98,
       description: "Batman enfrenta al Joker, un villano caótico que desestabiliza Ciudad Gótica.",
-      videoUrl: "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/1080/Big_Buck_Bunny_1080_10s_1MB.mp4"
+      videoUrl: "SPIDER-MAN Vuelve a la gran pantalla. ¡TODOS ELLOS a partir del 2 DE AGOSTO!.mp4"
     },
     {
       id: 5,
@@ -138,7 +138,7 @@ const Movies = () => {
       genres: ["Acción", "Thriller"],
       match: 94,
       description: "Un exagente de la CIA rastrea a su hija secuestrada en Europa.",
-      videoUrl: "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/1080/Big_Buck_Bunny_1080_10s_1MB.mp4"
+      videoUrl: "SPIDER-MAN Vuelve a la gran pantalla. ¡TODOS ELLOS a partir del 2 DE AGOSTO!.mp4"
     }
   ];
 
@@ -153,7 +153,7 @@ const Movies = () => {
       genres: ["Comedia"],
       match: 92,
       description: "Dos adolescentes intentan conseguir alcohol para una fiesta y viven un sinfín de aventuras hilarantes.",
-      videoUrl: "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/1080/Big_Buck_Bunny_1080_10s_1MB.mp4"
+      videoUrl: "SPIDER-MAN Vuelve a la gran pantalla. ¡TODOS ELLOS a partir del 2 DE AGOSTO!.mp4"
     },
     {
       id: 7,
@@ -165,7 +165,7 @@ const Movies = () => {
       genres: ["Comedia"],
       match: 91,
       description: "Dos amigos increíblemente torpes se embarcan en un viaje para devolver un maletín perdido.",
-      videoUrl: "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/1080/Big_Buck_Bunny_1080_10s_1MB.mp4"
+      videoUrl: "SPIDER-MAN Vuelve a la gran pantalla. ¡TODOS ELLOS a partir del 2 DE AGOSTO!.mp4"
     },
     {
       id: 8,
@@ -177,7 +177,7 @@ const Movies = () => {
       genres: ["Comedia"],
       match: 93,
       description: "Tres amigos despiertan tras una loca despedida de soltero sin recordar nada y buscan al novio perdido.",
-      videoUrl: "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/1080/Big_Buck_Bunny_1080_10s_1MB.mp4"
+      videoUrl: "SPIDER-MAN Vuelve a la gran pantalla. ¡TODOS ELLOS a partir del 2 DE AGOSTO!.mp4"
     },
     {
       id: 9,
@@ -189,7 +189,7 @@ const Movies = () => {
       genres: ["Comedia"],
       match: 94,
       description: "Una adolescente nueva se enfrenta al mundo feroz de las 'chicas populares' en su instituto.",
-      videoUrl: "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/1080/Big_Buck_Bunny_1080_10s_1MB.mp4"
+      videoUrl: "SPIDER-MAN Vuelve a la gran pantalla. ¡TODOS ELLOS a partir del 2 DE AGOSTO!.mp4"
     },
     {
       id: 10,
@@ -201,7 +201,7 @@ const Movies = () => {
       genres: ["Comedia"],
       match: 90,
       description: "Un joven excéntrico ayuda a su amigo a ganar la presidencia del consejo estudiantil.",
-      videoUrl: "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/1080/Big_Buck_Bunny_1080_10s_1MB.mp4"
+      videoUrl: "SPIDER-MAN Vuelve a la gran pantalla. ¡TODOS ELLOS a partir del 2 DE AGOSTO!.mp4"
     }
   ];
 
@@ -216,7 +216,7 @@ const Movies = () => {
       genres: ["Drama", "Romance"],
       match: 98,
       description: "La vida extraordinaria de un hombre simple que se cruza con momentos históricos icónicos.",
-      videoUrl: "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/1080/Big_Buck_Bunny_1080_10s_1MB.mp4"
+      videoUrl: "SPIDER-MAN Vuelve a la gran pantalla. ¡TODOS ELLOS a partir del 2 DE AGOSTO!.mp4"
     },
     {
       id: 12,
@@ -228,7 +228,7 @@ const Movies = () => {
       genres: ["Drama", "Biografía"],
       match: 95,
       description: "Un hombre lucha por superar la pobreza mientras cuida de su hijo pequeño.",
-      videoUrl: "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/1080/Big_Buck_Bunny_1080_10s_1MB.mp4"
+      videoUrl: "SPIDER-MAN Vuelve a la gran pantalla. ¡TODOS ELLOS a partir del 2 DE AGOSTO!.mp4"
     },
     {
       id: 13,
@@ -240,7 +240,7 @@ const Movies = () => {
       genres: ["Drama", "Crimen"],
       match: 99,
       description: "Dos presos forjan una amistad en una cárcel mientras planean su libertad.",
-      videoUrl: "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/1080/Big_Buck_Bunny_1080_10s_1MB.mp4"
+      videoUrl: "SPIDER-MAN Vuelve a la gran pantalla. ¡TODOS ELLOS a partir del 2 DE AGOSTO!.mp4"
     },
     {
       id: 14,
@@ -252,7 +252,7 @@ const Movies = () => {
       genres: ["Drama", "Romance", "Música"],
       match: 94,
       description: "Una joven cantante asciende a la fama mientras su mentor lidia con sus propios demonios.",
-      videoUrl: "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/1080/Big_Buck_Bunny_1080_10s_1MB.mp4"
+      videoUrl: "SPIDER-MAN Vuelve a la gran pantalla. ¡TODOS ELLOS a partir del 2 DE AGOSTO!.mp4"
     },
     {
       id: 15,
@@ -264,7 +264,7 @@ const Movies = () => {
       genres: ["Drama", "Historia", "Biografía"],
       match: 96,
       description: "La historia real de un hombre libre capturado y vendido como esclavo en el siglo XIX.",
-      videoUrl: "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/1080/Big_Buck_Bunny_1080_10s_1MB.mp4"
+      videoUrl: "SPIDER-MAN Vuelve a la gran pantalla. ¡TODOS ELLOS a partir del 2 DE AGOSTO!.mp4"
     }
   ];
 
@@ -279,7 +279,7 @@ const Movies = () => {
       genres: ["Terror", "Suspenso"],
       match: 95,
       description: "Una familia busca la ayuda de investigadores paranormales para enfrentar una entidad maligna.",
-      videoUrl: "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/1080/Big_Buck_Bunny_1080_10s_1MB.mp4"
+      videoUrl: "SPIDER-MAN Vuelve a la gran pantalla. ¡TODOS ELLOS a partir del 2 DE AGOSTO!.mp4"
     },
     {
       id: 17,
@@ -291,7 +291,7 @@ const Movies = () => {
       genres: ["Terror", "Drama", "Misterio"],
       match: 93,
       description: "Una familia enfrenta secretos oscuros y eventos aterradores tras la muerte de su abuela.",
-      videoUrl: "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/1080/Big_Buck_Bunny_1080_10s_1MB.mp4"
+      videoUrl: "SPIDER-MAN Vuelve a la gran pantalla. ¡TODOS ELLOS a partir del 2 DE AGOSTO!.mp4"
     },
     {
       id: 18,
@@ -303,7 +303,7 @@ const Movies = () => {
       genres: ["Terror", "Aventura"],
       match: 94,
       description: "Un grupo de niños enfrenta a un payaso demoníaco que acecha su pueblo.",
-      videoUrl: "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/1080/Big_Buck_Bunny_1080_10s_1MB.mp4"
+      videoUrl: "SPIDER-MAN Vuelve a la gran pantalla. ¡TODOS ELLOS a partir del 2 DE AGOSTO!.mp4"
     },
     {
       id: 19,
@@ -315,7 +315,7 @@ const Movies = () => {
       genres: ["Terror", "Ciencia ficción"],
       match: 96,
       description: "Una familia sobrevive en un mundo donde criaturas cazan por el sonido.",
-      videoUrl: "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/1080/Big_Buck_Bunny_1080_10s_1MB.mp4"
+      videoUrl: "SPIDER-MAN Vuelve a la gran pantalla. ¡TODOS ELLOS a partir del 2 DE AGOSTO!.mp4"
     },
     {
       id: 20,
@@ -327,7 +327,7 @@ const Movies = () => {
       genres: ["Terror", "Sobrenatural"],
       match: 92,
       description: "Un sacerdote lucha contra una poderosa posesión demoníaca en una niña.",
-      videoUrl: "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/1080/Big_Buck_Bunny_1080_10s_1MB.mp4"
+      videoUrl: "SPIDER-MAN Vuelve a la gran pantalla. ¡TODOS ELLOS a partir del 2 DE AGOSTO!.mp4"
     }
   ];
 
@@ -342,7 +342,7 @@ const Movies = () => {
       genres: ["Ciencia ficción", "Drama"],
       match: 96,
       description: "Un 'blade runner' descubre un secreto que podría cambiar la sociedad para siempre.",
-      videoUrl: "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/1080/Big_Buck_Bunny_1080_10s_1MB.mp4"
+      videoUrl: "SPIDER-MAN Vuelve a la gran pantalla. ¡TODOS ELLOS a partir del 2 DE AGOSTO!.mp4"
     },
     {
       id: 22,
@@ -354,7 +354,7 @@ const Movies = () => {
       genres: ["Ciencia ficción", "Aventura", "Drama"],
       match: 97,
       description: "Un grupo de astronautas busca un nuevo hogar para la humanidad más allá de las estrellas.",
-      videoUrl: "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/1080/Big_Buck_Bunny_1080_10s_1MB.mp4"
+      videoUrl: "SPIDER-MAN Vuelve a la gran pantalla. ¡TODOS ELLOS a partir del 2 DE AGOSTO!.mp4"
     },
     {
       id: 23,
@@ -366,7 +366,7 @@ const Movies = () => {
       genres: ["Ciencia ficción", "Acción"],
       match: 98,
       description: "Un hacker descubre la verdad detrás de la realidad y lidera una rebelión contra las máquinas.",
-      videoUrl: "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/1080/Big_Buck_Bunny_1080_10s_1MB.mp4"
+      videoUrl: "SPIDER-MAN Vuelve a la gran pantalla. ¡TODOS ELLOS a partir del 2 DE AGOSTO!.mp4"
     },
     {
       id: 24,
@@ -378,7 +378,7 @@ const Movies = () => {
       genres: ["Ciencia ficción", "Drama", "Misterio"],
       match: 94,
       description: "Una lingüista trata de comunicarse con alienígenas para evitar un conflicto global.",
-      videoUrl: "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/1080/Big_Buck_Bunny_1080_10s_1MB.mp4"
+      videoUrl: "SPIDER-MAN Vuelve a la gran pantalla. ¡TODOS ELLOS a partir del 2 DE AGOSTO!.mp4"
     },
     {
       id: 25,
@@ -390,7 +390,7 @@ const Movies = () => {
       genres: ["Ciencia ficción", "Acción", "Thriller"],
       match: 97,
       description: "Un ladrón de sueños acepta una misión para plantar una idea en la mente de un magnate.",
-      videoUrl: "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/1080/Big_Buck_Bunny_1080_10s_1MB.mp4"
+      videoUrl: "SPIDER-MAN Vuelve a la gran pantalla. ¡TODOS ELLOS a partir del 2 DE AGOSTO!.mp4"
     }
   ];
 

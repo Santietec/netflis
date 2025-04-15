@@ -93,7 +93,7 @@ const TVShows = () => {
       match: 95,
       description: "Un cazarrecompensas se aventura en la galaxia mientras protege a un misterioso niño.",
       seasons: "3 Temporadas",
-      videoUrl: "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/1080/Big_Buck_Bunny_1080_10s_1MB.mp4"
+      videoUrl: "SPIDER-MAN Vuelve a la gran pantalla. ¡TODOS ELLOS a partir del 2 DE AGOSTO!.mp4"
     },
     {
       id: 2,
@@ -106,7 +106,7 @@ const TVShows = () => {
       match: 98,
       description: "Un profesor de química se convierte en un fabricante de metanfetaminas para asegurar el futuro de su familia.",
       seasons: "5 Temporadas",
-      videoUrl: "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/1080/Big_Buck_Bunny_1080_10s_1MB.mp4"
+      videoUrl: "SPIDER-MAN Vuelve a la gran pantalla. ¡TODOS ELLOS a partir del 2 DE AGOSTO!.mp4"
     },
     {
       id: 3,
@@ -119,7 +119,7 @@ const TVShows = () => {
       match: 94,
       description: "El agente Jack Bauer enfrenta amenazas terroristas en tiempo real, una hora por episodio.",
       seasons: "9 Temporadas",
-      videoUrl: "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/1080/Big_Buck_Bunny_1080_10s_1MB.mp4"
+      videoUrl: "SPIDER-MAN Vuelve a la gran pantalla. ¡TODOS ELLOS a partir del 2 DE AGOSTO!.mp4"
     },
     {
       id: 4,
@@ -132,7 +132,7 @@ const TVShows = () => {
       match: 96,
       description: "Un abogado ciego combate el crimen por la noche como el vigilante Daredevil.",
       seasons: "3 Temporadas",
-      videoUrl: "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/1080/Big_Buck_Bunny_1080_10s_1MB.mp4"
+      videoUrl: "SPIDER-MAN Vuelve a la gran pantalla. ¡TODOS ELLOS a partir del 2 DE AGOSTO!.mp4"
     },
     {
       id: 5,
@@ -145,7 +145,7 @@ const TVShows = () => {
       match: 95,
       description: "Sigue las aventuras del legendario Ragnar Lothbrok y sus conquistas vikingas.",
       seasons: "6 Temporadas",
-      videoUrl: "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/1080/Big_Buck_Bunny_1080_10s_1MB.mp4"
+      videoUrl: "SPIDER-MAN Vuelve a la gran pantalla. ¡TODOS ELLOS a partir del 2 DE AGOSTO!.mp4"
     }
   ];
   
@@ -161,7 +161,7 @@ const TVShows = () => {
       match: 96,
       description: "Un grupo de amigos navega por la vida, el amor y el trabajo en Nueva York.",
       seasons: "10 Temporadas",
-      videoUrl: "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/1080/Big_Buck_Bunny_1080_10s_1MB.mp4"
+      videoUrl: "SPIDER-MAN Vuelve a la gran pantalla. ¡TODOS ELLOS a partir del 2 DE AGOSTO!.mp4"
     },
     {
       id: 7,
@@ -174,7 +174,7 @@ const TVShows = () => {
       match: 94,
       description: "Las hilarantes vidas de los empleados de una oficina en Scranton, Pensilvania.",
       seasons: "9 Temporadas",
-      videoUrl: "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/1080/Big_Buck_Bunny_1080_10s_1MB.mp4"
+      videoUrl: "SPIDER-MAN Vuelve a la gran pantalla. ¡TODOS ELLOS a partir del 2 DE AGOSTO!.mp4"
     },
     {
       id: 8,
@@ -187,7 +187,7 @@ const TVShows = () => {
       match: 95,
       description: "Detectives de una comisaría de Nueva York resuelven casos mientras enfrentan situaciones cómicas.",
       seasons: "8 Temporadas",
-      videoUrl: "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/1080/Big_Buck_Bunny_1080_10s_1MB.mp4"
+      videoUrl: "SPIDER-MAN Vuelve a la gran pantalla. ¡TODOS ELLOS a partir del 2 DE AGOSTO!.mp4"
     },
     {
       id: 9,
@@ -200,7 +200,7 @@ const TVShows = () => {
       match: 93,
       description: "Los empleados del departamento de parques de una pequeña ciudad trabajan juntos en medio de absurdos desafíos.",
       seasons: "7 Temporadas",
-      videoUrl: "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/1080/Big_Buck_Bunny_1080_10s_1MB.mp4"
+      videoUrl: "SPIDER-MAN Vuelve a la gran pantalla. ¡TODOS ELLOS a partir del 2 DE AGOSTO!.mp4"
     },
     {
       id: 10,
@@ -213,7 +213,7 @@ const TVShows = () => {
       match: 92,
       description: "Un hombre cuenta a sus hijos cómo conoció a su madre a través de anécdotas divertidas y emotivas.",
       seasons: "9 Temporadas",
-      videoUrl: "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/1080/Big_Buck_Bunny_1080_10s_1MB.mp4"
+      videoUrl: "SPIDER-MAN Vuelve a la gran pantalla. ¡TODOS ELLOS a partir del 2 DE AGOSTO!.mp4"
     }
   ];
   
@@ -229,7 +229,7 @@ const TVShows = () => {
       match: 97,
       description: "La vida de la Reina Isabel II y los eventos históricos que marcaron su reinado.",
       seasons: "6 Temporadas",
-      videoUrl: "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/1080/Big_Buck_Bunny_1080_10s_1MB.mp4"
+      videoUrl: "SPIDER-MAN Vuelve a la gran pantalla. ¡TODOS ELLOS a partir del 2 DE AGOSTO!.mp4"
     },
     {
       id: 12,
@@ -242,7 +242,7 @@ const TVShows = () => {
       match: 98,
       description: "Un mafioso italoamericano equilibra su vida familiar y sus actividades criminales.",
       seasons: "6 Temporadas",
-      videoUrl: "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/1080/Big_Buck_Bunny_1080_10s_1MB.mp4"
+      videoUrl: "SPIDER-MAN Vuelve a la gran pantalla. ¡TODOS ELLOS a partir del 2 DE AGOSTO!.mp4"
     },
     {
       id: 13,
@@ -255,7 +255,7 @@ const TVShows = () => {
       match: 99,
       description: "Casas nobles luchan por el control del Trono de Hierro en un mundo lleno de intriga y dragones.",
       seasons: "8 Temporadas",
-      videoUrl: "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/1080/Big_Buck_Bunny_1080_10s_1MB.mp4"
+      videoUrl: "SPIDER-MAN Vuelve a la gran pantalla. ¡TODOS ELLOS a partir del 2 DE AGOSTO!.mp4"
     },
     {
       id: 14,
@@ -268,7 +268,7 @@ const TVShows = () => {
       match: 95,
       description: "En un futuro distópico, las mujeres fértiles son forzadas a ser siervas reproductoras.",
       seasons: "5 Temporadas",
-      videoUrl: "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/1080/Big_Buck_Bunny_1080_10s_1MB.mp4"
+      videoUrl: "SPIDER-MAN Vuelve a la gran pantalla. ¡TODOS ELLOS a partir del 2 DE AGOSTO!.mp4"
     },
     {
       id: 15,
@@ -281,7 +281,7 @@ const TVShows = () => {
       match: 96,
       description: "Una poderosa familia lucha por el control de su imperio mediático.",
       seasons: "4 Temporadas",
-      videoUrl: "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/1080/Big_Buck_Bunny_1080_10s_1MB.mp4"
+      videoUrl: "SPIDER-MAN Vuelve a la gran pantalla. ¡TODOS ELLOS a partir del 2 DE AGOSTO!.mp4"
     }
   ];
   
@@ -297,7 +297,7 @@ const TVShows = () => {
       match: 97,
       description: "Un grupo de niños enfrenta misterios sobrenaturales en un pequeño pueblo.",
       seasons: "4 Temporadas",
-      videoUrl: "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/1080/Big_Buck_Bunny_1080_10s_1MB.mp4"
+      videoUrl: "SPIDER-MAN Vuelve a la gran pantalla. ¡TODOS ELLOS a partir del 2 DE AGOSTO!.mp4"
     },
     {
       id: 17,
@@ -310,7 +310,7 @@ const TVShows = () => {
       match: 94,
       description: "Sobrevivientes intentan resistir en un mundo invadido por zombis.",
       seasons: "11 Temporadas",
-      videoUrl: "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/1080/Big_Buck_Bunny_1080_10s_1MB.mp4"
+      videoUrl: "SPIDER-MAN Vuelve a la gran pantalla. ¡TODOS ELLOS a partir del 2 DE AGOSTO!.mp4"
     },
     {
       id: 18,
@@ -323,7 +323,7 @@ const TVShows = () => {
       match: 93,
       description: "Serie antológica que explora diferentes historias de terror en cada temporada.",
       seasons: "12 Temporadas",
-      videoUrl: "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/1080/Big_Buck_Bunny_1080_10s_1MB.mp4"
+      videoUrl: "SPIDER-MAN Vuelve a la gran pantalla. ¡TODOS ELLOS a partir del 2 DE AGOSTO!.mp4"
     },
     {
       id: 19,
@@ -336,7 +336,7 @@ const TVShows = () => {
       match: 95,
       description: "Una familia enfrenta los traumas y los secretos de una casa embrujada.",
       seasons: "1 Temporada",
-      videoUrl: "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/1080/Big_Buck_Bunny_1080_10s_1MB.mp4"
+      videoUrl: "SPIDER-MAN Vuelve a la gran pantalla. ¡TODOS ELLOS a partir del 2 DE AGOSTO!.mp4"
     },
     {
       id: 20,
@@ -349,7 +349,7 @@ const TVShows = () => {
       match: 92,
       description: "Iconos del terror como Drácula y Frankenstein convergen en una sombría Londres victoriana.",
       seasons: "3 Temporadas",
-      videoUrl: "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/1080/Big_Buck_Bunny_1080_10s_1MB.mp4"
+      videoUrl: "SPIDER-MAN Vuelve a la gran pantalla. ¡TODOS ELLOS a partir del 2 DE AGOSTO!.mp4"
     }
   ];
   
@@ -365,7 +365,7 @@ const TVShows = () => {
       match: 96,
       description: "Serie antológica que explora los impactos oscuros de la tecnología en la sociedad.",
       seasons: "6 Temporadas",
-      videoUrl: "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/1080/Big_Buck_Bunny_1080_10s_1MB.mp4"
+      videoUrl: "SPIDER-MAN Vuelve a la gran pantalla. ¡TODOS ELLOS a partir del 2 DE AGOSTO!.mp4"
     },
     {
       id: 22,
@@ -378,7 +378,7 @@ const TVShows = () => {
       match: 95,
       description: "Una conspiración interplanetaria amenaza la frágil paz entre la Tierra, Marte y el cinturón de asteroides.",
       seasons: "6 Temporadas",
-      videoUrl: "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/1080/Big_Buck_Bunny_1080_10s_1MB.mp4"
+      videoUrl: "SPIDER-MAN Vuelve a la gran pantalla. ¡TODOS ELLOS a partir del 2 DE AGOSTO!.mp4"
     },
     {
       id: 23,
@@ -391,7 +391,7 @@ const TVShows = () => {
       match: 94,
       description: "Un parque temático lleno de androides se convierte en un caos cuando estos desarrollan consciencia.",
       seasons: "4 Temporadas",
-      videoUrl: "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/1080/Big_Buck_Bunny_1080_10s_1MB.mp4"
+      videoUrl: "SPIDER-MAN Vuelve a la gran pantalla. ¡TODOS ELLOS a partir del 2 DE AGOSTO!.mp4"
     },
     {
       id: 24,
@@ -404,7 +404,7 @@ const TVShows = () => {
       match: 93,
       description: "Un alienígena viaja en el tiempo y el espacio para salvar el universo.",
       seasons: "13 Temporadas",
-      videoUrl: "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/1080/Big_Buck_Bunny_1080_10s_1MB.mp4"
+      videoUrl: "SPIDER-MAN Vuelve a la gran pantalla. ¡TODOS ELLOS a partir del 2 DE AGOSTO!.mp4"
     },
     {
       id: 25,
@@ -417,7 +417,7 @@ const TVShows = () => {
       match: 92,
       description: "Un equipo investiga fenómenos paranormales mientras lidia con un universo alterno.",
       seasons: "5 Temporadas",
-      videoUrl: "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/1080/Big_Buck_Bunny_1080_10s_1MB.mp4"
+      videoUrl: "SPIDER-MAN Vuelve a la gran pantalla. ¡TODOS ELLOS a partir del 2 DE AGOSTO!.mp4"
     }
   ];
 
